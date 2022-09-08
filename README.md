@@ -1,9 +1,9 @@
-Файли та папки .gitignore з презентації О.Репети
+# Файли та папки .gitignore з презентації О.Репети
 
-.vscode
-.idea
-node_modules
-.env
-*.psd
-build/
+.vscode <br>
+.idea <br>
+node_modules <br>
+.env <br>
+*.psd <br>
+build/ <br>
 .DS_Store (тільки якщо в тебе MacOS)
